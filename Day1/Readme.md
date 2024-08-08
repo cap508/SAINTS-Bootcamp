@@ -9,4 +9,9 @@ Take your time and make sure you understand what's happening before you move on.
 
 If anything is unclear, then please ask.
 
+Open the pdf called An_Introduction_to_Python.pdf to start.
+
+[Some useful tricks for formatting print strings](https://www.youtube.com/watch?v=EoNOWVYKyo0&authuser=0)
+
+
 Colin.
