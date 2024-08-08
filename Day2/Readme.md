@@ -10,7 +10,7 @@ Notebooks:
 + [Files and Strings Notebook](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Files%20and%20Strings.ipynb)
 + [Data Handling Notebook](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Data_Handling.ipynb)
 + [Data Visualization: Line Graphs](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/1%20LineGraphs.ipynb)
-+ [Data Visualization: Bar and Box Graphs](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/2%20Bar%20and%20Boxes.ipynb)
++ [Data Visualization: Bar and Box Graphs](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/2%20Bars%20and%20Boxes.ipynb)
 + [Data Visualization: Other Graphs](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/3%20OtherPlots.ipynb)
   
 Resources:
