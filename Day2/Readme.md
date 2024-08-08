@@ -6,4 +6,4 @@ We will also look at a new environment called Jupyter notebooks and particularly
 We will see that these libraries can be incredibly powerful and that, with very little knowledge, and only a few lines of Python, we can create some
 really useful scripts.
 
-
++ [Files and Strings Notebook](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Files%20and%20Strings.ipynb)
