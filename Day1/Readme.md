@@ -9,7 +9,7 @@ Take your time and make sure you understand what's happening before you move on.
 
 If anything is unclear, then please ask.
 
-Open the pdf called An_Introduction_to_Python.pdf to start.
+Open the pdf called [An_Introduction_to_Python.pdf](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day1/An_Introduction_to_Python.pdf) to start.
 
 [Some useful tricks for formatting print strings](https://www.youtube.com/watch?v=EoNOWVYKyo0&authuser=0)
 
