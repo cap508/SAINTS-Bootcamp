@@ -7,3 +7,4 @@ We will see that these libraries can be incredibly powerful and that, with very 
 really useful scripts.
 
 + [Files and Strings Notebook](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Files%20and%20Strings.ipynb)
++ [Data Handling Notebook](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Data_Handling.ipynb)
