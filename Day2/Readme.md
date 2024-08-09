@@ -18,6 +18,7 @@ Notebooks:
   
 Resources:
 + [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
++ [Getting started with Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/)
 
 Extension Activity:
 + [Simple UIs in Python](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day2/Resources/Creating_a_simple_UI.pdf)
