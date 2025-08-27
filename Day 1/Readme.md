@@ -4,8 +4,8 @@ Today we will be working through two worksheets which cover some mathematical an
 
 If anything is unclear, then please ask.
 
-Mathematics worksheet: [Maths_recap.pdf](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day 1/Maths_Recap.pdf).
-Statistics worksheet: [Maths_recap.pdf](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day 1/Stats_Recap.pdf).
+Mathematics worksheet: [Maths_recap.pdf](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day%201/Maths_Recap.pdf).
+Statistics worksheet: [Maths_recap.pdf](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day%201/Stats_Recap.pdf).
 
 
 
