@@ -1,24 +1,19 @@
-# Day 2
+# Day 2 - Getting Started with Python
 
-Today we are going to look at a number of libraries which are available in Python to undertake some useful tasks we might want to do during our research.
-We will also look at a new environment called Jupyter notebooks and particularly the Google Colab system which allows us to run these notebooks online.
+Welcome to this introductory course for Python. Today you will learn what programming is all about and why you should bother to learn it. You'll learn how Python is accessed on a computer and how to write lines of Python code. 
+You'll discover how to access Python in the command terminal to run individual commands and how to use VScode as an editor to create, and run, larger Python programs.
 
-We will see that these libraries can be incredibly powerful and that, with very little knowledge, and only a few lines of Python, we can create some
-really useful scripts.
+Today's primary material is in the form of a PDF which we will walk through together.
 
-We will start with an introduction to Jupyter Notebooks.
+Take your time and make sure you understand what's happening before you move on.
+
+If anything is unclear, then please ask.
+
+Open the pdf called [An_Introduction_to_Python.pdf](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day1/An_Introduction_to_Python.pdf) to start.
+
+## Resources
++ [Some useful tricks for formatting print strings](https://www.youtube.com/watch?v=EoNOWVYKyo0&authuser=0)
++ [Getting Started with VSCode](https://code.visualstudio.com/docs/introvideos/basics)
 
 
-Notebooks:
-+ [Files and Strings Notebook](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Notebooks/Files%20and%20Strings.ipynb)
-+ [Data Handling Notebook](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Notebooks/Data_Handling.ipynb)
-+ [Data Visualization: Line Graphs](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Notebooks/1%20LineGraphs.ipynb)
-+ [Data Visualization: Bar and Box Graphs](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Notebooks/2%20Bars%20and%20Boxes.ipynb)
-+ [Data Visualization: Other Graphs](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day2/Notebooks/3%20OtherPlots.ipynb)
-  
-Resources:
-+ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-+ [Getting started with Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/)
-
-Extension Activity:
-+ [Simple UIs in Python](https://github.com/cap508/SAINTS-Bootcamp/blob/main/Day2/Resources/Creating_a_simple_UI.pdf)
+Colin.
