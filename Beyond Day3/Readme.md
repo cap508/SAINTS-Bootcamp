@@ -9,7 +9,7 @@ You will see that with the use of Python and some selected libraries the amount 
 It's not my intention to make you into AI experts in this part of the course, you'll ahve other modules for that, instead I want to give you some insights into how Python can be used in the data modelling and machine learning tasks.
 
 ## Notebooks
-+ [Model Fitting](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day3/Notebooks/Model%20Fitting.ipynb)
-+ [Classification](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day3/Notebooks/Classification.ipynb)
-+ [Decision Trees](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day3/Notebooks/DecisionTrees.ipynb)
-+ [Image Classification](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Day3/Notebooks/Image%20Classification.ipynb)
++ [Model Fitting](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Beyond%20Day3/Notebooks/Model%20Fitting.ipynb)
++ [Classification](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Beyond%20Day3/Notebooks/Classification.ipynb)
++ [Decision Trees](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Beyond%20Day3/Notebooks/DecisionTrees.ipynb)
++ [Image Classification](https://colab.research.google.com/github/cap508/SAINTS-Bootcamp/blob/main/Beyond%20Day3/Notebooks/Image%20Classification.ipynb)
