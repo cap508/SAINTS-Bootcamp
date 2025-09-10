@@ -1,4 +1,4 @@
-# Beyodd Day 3
+# Beyond Day 3
 
 I have created a number of resources to allow you to look at data modelling and then look at machine learning.
 
